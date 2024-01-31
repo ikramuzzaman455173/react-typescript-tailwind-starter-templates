@@ -10,7 +10,7 @@ import {
 const SimpleCard = () => {
   return (
     <>
-      <Card className="mt-10 max-w-[350px]">
+      <Card className=" mt-3 max-w-[350px]">
         <CardHeader>
           <CardTitle>Card Title</CardTitle>
           <CardDescription>Card Description</CardDescription>
